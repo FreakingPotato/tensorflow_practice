@@ -1,0 +1,5 @@
+Issues:
+1. Jupyter Notebook not respongding after installing google colab package
+-- google colab installation delete required laterest jupyter notebook ipykernal and reinstall the old version(ipykernel~=4.6.0)
+
+2. Curret training process took about 5 mins, the jupyter notebook may restart kernal & Clear oupput after long time no respond.
